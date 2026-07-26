@@ -15,12 +15,12 @@
 <div align="center">
   <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; padding: 25px; text-align: center;">
     <p>
-      <a href='https://github.com/Bhonandh/RAG-Anything-main-main'><img src='https://img.shields.io/badge/🔥Project-Page-00d9ff?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e'></a>
+      <a href='https://github.com/Bhonandh/RAG-Anything-main'><img src='https://img.shields.io/badge/🔥Project-Page-00d9ff?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e'></a>
       <a href='https://arxiv.org/abs/2410.05779'><img src='https://img.shields.io/badge/📄arXiv-2410.05779-ff6b6b?style=for-the-badge&logo=arxiv&logoColor=white&labelColor=1a1a2e'></a>
       <a href='https://github.com/Bhonandh/LightRAG'><img src='https://img.shields.io/badge/⚡Based%20on-LightRAG-4ecdc4?style=for-the-badge&logo=lightning&logoColor=white&labelColor=1a1a2e'></a>
     </p>
     <p>
-      <a href="https://github.com/Bhonandh/RAG-Anything-main-main/stargazers"><img src='https://img.shields.io/github/stars/Bhonandh/RAG-Anything-main?color=00d9ff&style=for-the-badge&logo=star&logoColor=white&labelColor=1a1a2e' /></a>
+      <a href="https://github.com/Bhonandh/RAG-Anything-main/stargazers"><img src='https://img.shields.io/github/stars/Bhonandh/RAG-Anything-main?color=00d9ff&style=for-the-badge&logo=star&logoColor=white&labelColor=1a1a2e' /></a>
       <img src="https://img.shields.io/badge/🐍Python-3.10-4ecdc4?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a2e">
       <a href="https://pypi.org/project/raganything/"><img src="https://img.shields.io/pypi/v/raganything.svg?style=for-the-badge&logo=pypi&logoColor=white&labelColor=1a1a2e&color=ff6b6b"></a>
       <a href="https://github.com/astral-sh/uv"><img src="https://img.shields.io/badge/⚡uv-Ready-ff6b6b?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a2e"></a>
@@ -65,7 +65,7 @@ As a unified solution, RAG-Anything-main **eliminates the need for multiple spec
 
 Users can query documents containing **interleaved text**, **visual diagrams**, **structured tables**, and **mathematical formulations** through **one cohesive interface**. This consolidated approach makes RAG-Anything-main particularly valuable for academic research, technical documentation, financial reports, and enterprise knowledge management where rich, mixed-content documents demand a **unified processing framework**.
 
-<img src="assets/rag_anything_framework.png" alt="RAG-Anything-main-main" />
+<img src="assets/rag_anything_framework.png" alt="RAG-Anything-main" />
 
 </div>
 
@@ -248,7 +248,7 @@ pip install 'raganything[image,text]'       # Multiple features
 curl -LsSf https://astral.sh/uv/install.sh | sh
 
 # Clone and setup the project with uv
-git clone https://github.com/Bhonandh/RAG-Anything-main-main.git
+git clone https://github.com/Bhonandh/RAG-Anything-main.git
 cd RAG-Anything-main
 
 # Install the package and dependencies in a virtual environment
